@@ -1,0 +1,11 @@
+import {  View, ScrollView, Image,StatusBar,Text,TouchableOpacity,TextInput } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { styled } from 'nativewind';
+export const StyledView = styled(View);
+export const StyledImage = styled(Image);
+export const StyledSafeArea = styled(SafeAreaView);
+export const StyledScrollView = styled(ScrollView);
+export const StyledStatusBar = styled(StatusBar);
+export const StyledText = styled(Text);
+export const StyledTouchableOpacity = styled(TouchableOpacity);
+export const StyledTextInput = styled(TextInput);
