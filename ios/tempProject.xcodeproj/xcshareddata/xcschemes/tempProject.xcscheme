@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "VAora.app"
-               BlueprintName = "VAora"
-               ReferencedContainer = "container:VAora.xcodeproj">
+               BuildableName = "ViAora.app"
+               BlueprintName = "ViAora"
+               ReferencedContainer = "container:ViAora.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "VAoraTests.xctest"
-               BlueprintName = "VAoraTests"
-               ReferencedContainer = "container:VAora.xcodeproj">
+               BuildableName = "ViAoraTests.xctest"
+               BlueprintName = "ViAoraTests"
+               ReferencedContainer = "container:ViAora.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "VAora.app"
-            BlueprintName = "VAora"
-            ReferencedContainer = "container:VAora.xcodeproj">
+            BuildableName = "ViAora.app"
+            BlueprintName = "ViAora"
+            ReferencedContainer = "container:ViAora.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "VAora.app"
-            BlueprintName = "VAora"
-            ReferencedContainer = "container:VAora.xcodeproj">
+            BuildableName = "ViAora.app"
+            BlueprintName = "ViAora"
+            ReferencedContainer = "container:ViAora.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

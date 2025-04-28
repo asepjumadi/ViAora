@@ -10,7 +10,7 @@ import {
 } from './Tailwinds';
 import { Button } from './component';
 
-export default function App({navigation}) {
+export default function Apps({navigation}) {
   return (
     <StyledSafeArea className="bg-primary h-full ">
       <StyledStatusBar className="bg-primary" backgroundColor={'#161622'} />
